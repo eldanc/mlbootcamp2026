@@ -30,3 +30,17 @@ Pytorch and Neural Networks
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_2_2_neuralnets.ipynb)
 
+## Day 3
+
+### Lab 5
+
+Autoencoders
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_3_1_autoencoders.ipynb)
+
+### Lab 6
+
+Graph Neural Networks
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_3_2_gnn.ipynb)
+
