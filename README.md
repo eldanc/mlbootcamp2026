@@ -44,3 +44,18 @@ Graph Neural Networks
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_3_2_gnn.ipynb)
 
+
+## Day 4
+
+### Lab 9
+
+Word Embeddings
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2025/blob/main/lab_4_1_words.ipynb)
+
+
+### Lab 10
+
+LLMs
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2025/blob/main/lab_4_2_llms.ipynb)
