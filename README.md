@@ -47,15 +47,39 @@ Graph Neural Networks
 
 ## Day 4
 
-### Lab 9
+### Lab 7
 
 Word Embeddings
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_4_1_words.ipynb)
 
 
-### Lab 10
+### Lab 8
 
 LLMs
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_4_2_llms.ipynb)
+
+
+## Day 5
+
+### Lab 9
+
+Tabular Foundation Models
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_5_1a_tabpfn.ipynb)
+
+Retrieval Augmented Generation (RAG)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_5_1b_rag.ipynb)
+
+Diffusion Language Models Demonstration
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_demo_diffusion.ipynb)
+
+
+### Lab 10
+
+Interpretability
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_5_2_interpretability.ipynb)
