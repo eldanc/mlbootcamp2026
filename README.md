@@ -83,3 +83,23 @@ Diffusion Language Models Demonstration
 Interpretability
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/lab_5_2_interpretability.ipynb)
+
+
+## Answers
+
+Basic Principles and Models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/answers/lab_1_1_basics_answered.ipynb)
+
+Support Vector Machines [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/answers/lab_1_2_svms_answered.ipynb)
+
+Trees and Ensemble Models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/answers/lab_2_1_trees_asnwered.ipynb)
+
+Pytorch and Neural Networks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/answers/lab_2_2_neuralnets_answered.ipynb)
+
+Autoencoders [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/answers/lab_3_1_autoencoders_answered.ipynb)
+
+Graph Neural Networks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/answers/lab_3_2_gnn_answered.ipynb)
+
+Word Embeddings [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eldanc/mlbootcamp2026/blob/main/answers/lab_4_1_words_answered.ipynb)
+
+
+
